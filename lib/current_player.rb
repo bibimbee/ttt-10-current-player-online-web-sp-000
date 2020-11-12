@@ -1,3 +1,4 @@
+
 def turn_count(board,index)
   counter = 0
 if X or O

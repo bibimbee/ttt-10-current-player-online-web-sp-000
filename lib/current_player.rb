@@ -4,5 +4,3 @@ def turn_count(board)
     then "X"
   else "O"
 end
-
-turn_count
